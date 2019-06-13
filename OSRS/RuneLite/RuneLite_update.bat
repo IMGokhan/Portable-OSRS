@@ -1,0 +1,1 @@
+..\CommonFiles\Java\bin\java.exe "-Duser.home=..\User" -jar RuneLite.jar
